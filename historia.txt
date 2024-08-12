@@ -2,3 +2,5 @@ Este es un archivo de texto.
 Es un test de su primer pull request
 
 Master 1
+
+Master 2
